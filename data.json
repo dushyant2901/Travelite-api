@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6512bf7b3639f60b3eb40f6f",
+    "name": "Sydney Opera House",
+    "location": "Sydney, Australia",
+    "description": "The Sydney Opera House is a renowned architectural masterpiece. Designed by Jørn Utzon, it boasts distinctive shell-like structures and a stunning waterfront location. This iconic performing arts venue hosts a variety of events and is a symbol of both Sydney and Australia's cultural significance.",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "userId": "syd-1",
+        "reviewText": "A very beautiful palce, very serence and peaceful",
+        "_id": "6512d8c27df4f16a8bc7de4f"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6512d50006191042a661554a",
+    "name": "Eiffel Tower",
+    "location": "Paris, France",
+    "description": "The Eiffel Tower, an iconic Parisian landmark designed by Gustave Eiffel, is a towering iron lattice structure standing at 324 meters. It graces the skyline with its intricate design and offers breathtaking panoramic views of Paris from its observation decks. A symbol of France, it captivates millions of visitors annually.",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "userId": "paris-1",
+        "reviewText": "Had an amazing trip!",
+        "_id": "6514246fbdf5ab89a07f7e46"
+      }
+    ],
+    "__v": 0
+  }
+]
